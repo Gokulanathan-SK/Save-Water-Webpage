@@ -1,0 +1,45 @@
+
+/* Home View Section */
+.home-view{
+  background-color: #00435c;
+  height: 25.4rem;
+  padding-top: 10rem;
+}
+
+h1{
+  text-align: center;
+  font-size: 4.5rem;
+  color: rgba(202, 239, 252, 0.8);
+}
+
+.start-here-button{
+  display: block;
+  margin: 3rem auto;
+  font-size: 2rem;
+  padding: 15px 20px;
+  border-radius: 10rem;
+  cursor: pointer;
+  color: #fff;
+  background-color: #0683cb;
+  box-shadow: 2px 2px 2rem #0000003e;
+  border: none;
+}
+
+.start-here-button:hover{
+  color: #000;
+  background-color: #e9f8fce0;
+  transition: color 0.15s, background-color 1s;
+  box-shadow: 2px 2px 2rem #0000003e;
+}
+
+
+/* About Section */
+h2{
+  margin: 1rem 0;
+  color: #026279;
+}
+
+.about{
+  font-size: 1.5rem;
+  padding: 0 1em;
+}
